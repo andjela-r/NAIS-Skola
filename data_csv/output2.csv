@@ -1,0 +1,101 @@
+razred,redni_br_casa,tekst,subj_ocena,ocena_standarda
+5,1,"Danas smo u?ili osnovne delove ra?unara. Od 20 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta, a ostatak ?asa smo proveli u prakti?nom radu.",8,9
+5,2,"Tema dana�njeg ?asa bila je softver i hardver. Od 18 u?enika, 3 su se javila da odgovore na pitanja. Predavanje je trajalo 25 minuta.",7,8
+5,3,U?ili smo kako se koriste osnovne funkcije u Microsoft Word-u. 6 u?enika od ukupno 19 se javilo sa pitanjima. Predavanje je trajalo 20 minuta.,8,9
+5,4,"Danas smo ve�bali kucanje na tastaturi. Od 20 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 15 minuta, a ostatak ?asa smo proveli u ve�banju.",9,10
+5,5,"Tema ?asa bila je sigurnost na internetu. Od 18 u?enika, 4 se javilo da postavi pitanja. Predavanje je trajalo 30 minuta.",8,9
+5,6,"U?ili smo osnovne komande u Windows operativnom sistemu. Od 19 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",7,8
+5,7,"Danas smo radili na projektima u grupama. Od 20 u?enika, 10 se aktivno uklju?ilo u rad. Predavanje je trajalo 10 minuta, a ostatak ?asa smo proveli u radu na projektima.",9,10
+5,8,"U?ili smo kako da pravimo jednostavne prezentacije u PowerPoint-u. Od 18 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 20 minuta.",8,9
+5,9,"Danas smo govorili o internet pretra�iva?ima i kako se koristi Google. Od 19 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",7,8
+5,10,"U?ili smo kako se �alju e-mailovi i pravila pona�anja na internetu. Od 20 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+5,11,"Danas smo u?ili osnovne pojmove iz programiranja. Od 18 u?enika, 3 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",7,8
+5,12,"Tema ?asa bila je kako se koristi Paint za crtanje i bojenje. Od 19 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 20 minuta.",8,9
+5,13,"Danas smo radili na zadacima iz programiranja u Scratch-u. Od 20 u?enika, 7 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta.",9,10
+5,14,"U?ili smo kako se koristi Excel za osnovne prora?une. Od 18 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+5,15,"Danas smo razgovarali o tome kako se za�tititi od virusa na ra?unaru. Od 19 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",7,8
+5,16,"U?ili smo kako da kreiramo i ure?ujemo tekstualne dokumente. Od 20 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 20 minuta.",8,9
+5,17,"Danas smo radili na projektu izrade bro�ure u Word-u. Od 18 u?enika, 9 se aktivno uklju?ilo u rad. Predavanje je trajalo 10 minuta.",9,10
+5,18,"Tema ?asa bila je kako prepoznati la�ne vesti na internetu. Od 19 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+5,19,"U?ili smo osnovne pojmove iz grafi?kog dizajna. Od 20 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",7,8
+5,20,"Danas smo ve�bali kako se pravi jednostavna web stranica u HTML-u. Od 18 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 20 minuta.",8,9
+6,1,"Danas smo u?ili napredne funkcije u Excelu. Od 22 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 35 minuta, a ostatak ?asa smo proveli u prakti?nom radu.",8,9
+6,2,"Tema dana�njeg ?asa bila je uvod u programiranje u Pythonu. Od 20 u?enika, 3 su se javila da odgovore na pitanja. Predavanje je trajalo 30 minuta.",7,8
+6,3,U?ili smo kako se koristi Google Drive za deljenje dokumenata. 5 u?enika od ukupno 21 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.,8,9
+6,4,"Danas smo ve�bali kucanje na tastaturi koriste?i razli?ite online alate. Od 22 u?enika, 9 se javilo sa pitanjima. Predavanje je trajalo 20 minuta, a ostatak ?asa smo proveli u ve�banju.",9,10
+6,5,"Tema ?asa bila je sigurnost na mre�i. Od 20 u?enika, 4 se javilo da postavi pitanja. Predavanje je trajalo 35 minuta.",8,9
+6,6,"U?ili smo napredne komande u Windows operativnom sistemu. Od 21 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+6,7,"Danas smo radili na grupnim projektima o ra?unarstvu u oblaku. Od 22 u?enika, 12 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta, a ostatak ?asa smo proveli u radu na projektima.",9,10
+6,8,"U?ili smo kako da pravimo animacije u PowerPoint-u. Od 20 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+6,9,"Danas smo govorili o sigurnosti lozinki i autentifikaciji. Od 21 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+6,10,"U?ili smo kako se koriste dru�tvene mre�e na siguran na?in. Od 22 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+6,11,"Danas smo u?ili osnovne algoritme u programiranju. Od 20 u?enika, 3 se javilo sa pitanjima. Predavanje je trajalo 40 minuta.",7,8
+6,12,"Tema ?asa bila je kako se koristi GIMP za ure?ivanje slika. Od 21 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+6,13,"Danas smo radili na zadacima iz programiranja u Pythonu. Od 22 u?enika, 8 se aktivno uklju?ilo u rad. Predavanje je trajalo 20 minuta.",9,10
+6,14,"U?ili smo kako se koristi Excel za napredne prora?une i grafikone. Od 20 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+6,15,"Danas smo razgovarali o tome kako prepoznati i izbe?i phishing napade. Od 21 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",7,8
+6,16,"U?ili smo kako da kreiramo slo�ene tekstualne dokumente sa slikama i tabelama. Od 22 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+6,17,"Danas smo radili na projektu izrade informativnog postera u PowerPoint-u. Od 20 u?enika, 10 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta.",9,10
+6,18,"Tema ?asa bila je kako prepoznati i izbe?i malware na ra?unaru. Od 21 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+6,19,"U?ili smo osnovne pojmove iz mre�nih protokola i mre�ne komunikacije. Od 22 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+6,20,"Danas smo ve�bali kako se pravi jednostavna web stranica koriste?i HTML i CSS. Od 20 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+7,1,"Danas smo u?ili osnovne koncepte objektno orijentisanog programiranja u Pythonu. Od 25 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta, a ostatak ?asa smo proveli u prakti?nom radu.",8,9
+7,2,"Tema dana�njeg ?asa bila je kako se koristi SQL za rad sa bazama podataka. Od 23 u?enika, 4 su se javila da odgovore na pitanja. Predavanje je trajalo 30 minuta.",7,8
+7,3,U?ili smo kako se koristi Google Sheets za napredne prora?une i analize podataka. 6 u?enika od ukupno 24 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.,8,9
+7,4,"Danas smo ve�bali kreiranje i ure?ivanje web stranica koriste?i HTML i CSS. Od 25 u?enika, 10 se javilo sa pitanjima. Predavanje je trajalo 20 minuta, a ostatak ?asa smo proveli u ve�banju.",9,10
+7,5,"Tema ?asa bila je sigurnost na mre�i i za�tita privatnosti. Od 23 u?enika, 5 se javilo da postavi pitanja. Predavanje je trajalo 35 minuta.",8,9
+7,6,"U?ili smo kako koristiti napredne funkcije u Windows operativnom sistemu. Od 24 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+7,7,"Danas smo radili na grupnim projektima o ra?unarstvu u oblaku i njegovim prednostima. Od 25 u?enika, 13 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta, a ostatak ?asa smo proveli u radu na projektima.",9,10
+7,8,"U?ili smo kako da kreiramo interaktivne prezentacije u PowerPoint-u. Od 23 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+7,9,"Danas smo govorili o va�nosti sigurnih lozinki i metoda autentifikacije. Od 24 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+7,10,"U?ili smo kako se koriste dru�tvene mre�e za profesionalnu komunikaciju. Od 25 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+7,11,"Danas smo u?ili osnovne algoritme za sortiranje i pretragu u programiranju. Od 23 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 40 minuta.",7,8
+7,12,"Tema ?asa bila je kako se koristi GIMP za napredno ure?ivanje slika. Od 24 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+7,13,"Danas smo radili na zadacima iz programiranja u Pythonu koriste?i petlje. Od 25 u?enika, 10 se aktivno uklju?ilo u rad. Predavanje je trajalo 20 minuta.",9,10
+7,14,"U?ili smo kako se koristi Excel za slo�ene prora?une i analizu podataka. Od 23 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+7,15,"Danas smo razgovarali o tome kako prepoznati i izbe?i razli?ite vrste sajber pretnji. Od 24 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",7,8
+7,16,"U?ili smo kako da kreiramo i formatiramo slo�ene tekstualne dokumente. Od 25 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+7,17,"Danas smo radili na projektu izrade digitalnog ?asopisa u Word-u. Od 23 u?enika, 12 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta.",9,10
+7,18,"Tema ?asa bila je kako prepoznati i izbe?i phishing napade putem e-maila. Od 24 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+7,19,"U?ili smo osnovne pojmove iz mre�nih protokola i kako funkcioni�u mre�e. Od 25 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+7,20,"Danas smo ve�bali kako se pravi jednostavna web stranica koriste?i HTML, CSS i JavaScript. Od 23 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,1,"Danas smo u?ili osnovne koncepte rada sa bazama podataka u MySQL-u. Od 26 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta, a ostatak ?asa smo proveli u prakti?nom radu.",8,9
+8,2,"Tema dana�njeg ?asa bila je napredno programiranje u Pythonu koriste?i funkcije. Od 24 u?enika, 4 su se javila da odgovore na pitanja. Predavanje je trajalo 30 minuta.",7,8
+8,3,U?ili smo kako se koristi Google Forms za kreiranje anketa i kvizova. 7 u?enika od ukupno 25 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.,8,9
+8,4,"Danas smo ve�bali kreiranje i ure?ivanje baza podataka u MySQL-u. Od 26 u?enika, 12 se javilo sa pitanjima. Predavanje je trajalo 20 minuta, a ostatak ?asa smo proveli u ve�banju.",9,10
+8,5,"Tema ?asa bila je sigurnost na mre�i i za�tita podataka. Od 24 u?enika, 5 se javilo da postavi pitanja. Predavanje je trajalo 35 minuta.",8,9
+8,6,"U?ili smo kako koristiti napredne funkcije u Windows operativnom sistemu i kako optimizovati performanse ra?unara. Od 25 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+8,7,"Danas smo radili na grupnim projektima o ve�ta?koj inteligenciji i njenim primenama. Od 26 u?enika, 15 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta, a ostatak ?asa smo proveli u radu na projektima.",9,10
+8,8,"U?ili smo kako da kreiramo interaktivne prezentacije koriste?i PowerPoint i integrisane medije. Od 24 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,9,"Danas smo govorili o sigurnosnim merama za za�titu privatnosti na internetu i kako izbe?i identitetsku kra?u. Od 25 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+8,10,"U?ili smo kako se koriste dru�tvene mre�e za profesionalnu komunikaciju i izgradnju digitalnog identiteta. Od 26 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+8,11,"Danas smo u?ili osnovne algoritme za sortiranje i pretragu podataka u programiranju. Od 24 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 40 minuta.",7,8
+8,12,"Tema ?asa bila je kako se koristi Photoshop za napredno ure?ivanje slika i kreiranje digitalne umetnosti. Od 25 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,13,"Danas smo radili na zadacima iz programiranja u Pythonu koriste?i slo�ene strukture podataka. Od 26 u?enika, 12 se aktivno uklju?ilo u rad. Predavanje je trajalo 20 minuta.",9,10
+8,14,"U?ili smo kako se koristi Excel za slo�ene prora?une, analizu podataka i vizualizaciju grafikona. Od 24 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+8,15,"Danas smo razgovarali o tome kako prepoznati i izbe?i razli?ite vrste sajber pretnji, uklju?uju?i ransomware. Od 25 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",7,8
+8,16,"U?ili smo kako da kreiramo i formatiramo slo�ene tekstualne dokumente sa naprednim stilovima i �ablonima. Od 26 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,17,"Danas smo radili na projektu izrade digitalnog ?asopisa u Word-u sa integrisanim multimedijalnim sadr�ajem. Od 24 u?enika, 14 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta.",9,10
+8,18,"Tema ?asa bila je kako prepoznati i izbe?i phishing napade putem razli?itih kanala komunikacije. Od 25 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+8,19,"U?ili smo osnovne pojmove iz mre�nih protokola, TCP/IP modela i kako funkcioni�u mre�e. Od 26 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+8,20,"Danas smo ve�bali kako se pravi jednostavna web stranica koriste?i HTML, CSS i JavaScript, sa naglaskom na responsivni dizajn. Od 24 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,21,"Danas smo u?ili napredne tehnike rada sa bazama podataka u MySQL-u, uklju?uju?i kreiranje slo�enih upita. Od 26 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta, a ostatak ?asa smo proveli u prakti?nom radu.",8,9
+8,22,"Tema dana�njeg ?asa bila je objektno orijentisano programiranje u Pythonu sa naglaskom na klase i objekte. Od 24 u?enika, 4 su se javila da odgovore na pitanja. Predavanje je trajalo 30 minuta.",7,8
+8,23,U?ili smo kako se koristi Google Drive za napredno upravljanje i deljenje dokumenata i kolaboraciju u realnom vremenu. 7 u?enika od ukupno 25 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.,8,9
+8,24,"Danas smo ve�bali kreiranje i ure?ivanje baza podataka koriste?i napredne funkcije u MySQL-u. Od 26 u?enika, 12 se javilo sa pitanjima. Predavanje je trajalo 20 minuta, a ostatak ?asa smo proveli u ve�banju.",9,10
+8,25,"Tema ?asa bila je sigurnost na mre�i i za�tita podataka sa posebnim osvrtom na GDPR. Od 24 u?enika, 5 se javilo da postavi pitanja. Predavanje je trajalo 35 minuta.",8,9
+8,26,"U?ili smo kako koristiti napredne funkcije u Windows operativnom sistemu i kako optimizovati performanse ra?unara koriste?i alatke za analizu. Od 25 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+8,27,"Danas smo radili na grupnim projektima o primeni ve�ta?ke inteligencije u svakodnevnom �ivotu. Od 26 u?enika, 15 se aktivno uklju?ilo u rad. Predavanje je trajalo 15 minuta, a ostatak ?asa smo proveli u radu na projektima.",9,10
+8,28,"U?ili smo kako da kreiramo interaktivne prezentacije koriste?i PowerPoint i integrisane medije, sa naglaskom na animacije i tranzicije. Od 24 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,29,"Danas smo govorili o sigurnosnim merama za za�titu privatnosti na internetu i kako izbe?i identitetsku kra?u kroz napredne tehnike. Od 25 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",7,8
+8,30,"U?ili smo kako se koriste dru�tvene mre�e za profesionalnu komunikaciju, izgradnju digitalnog identiteta i kako se za�tititi na njima. Od 26 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",8,9
+8,31,"Danas smo u?ili osnovne algoritme za sortiranje i pretragu podataka u programiranju sa prakti?nim primerima. Od 24 u?enika, 4 se javilo sa pitanjima. Predavanje je trajalo 40 minuta.",7,8
+8,32,"Tema ?asa bila je kako se koristi Photoshop za napredno ure?ivanje slika i kreiranje digitalne umetnosti, uklju?uju?i slo�ene slojeve. Od 25 u?enika, 8 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+8,33,"Danas smo radili na zadacima iz programiranja u Pythonu koriste?i slo�ene strukture podataka i algoritme. Od 26 u?enika, 12 se aktivno uklju?ilo u rad. Predavanje je trajalo 20 minuta.",9,10
+8,34,"U?ili smo kako se koristi Excel za slo�ene prora?une, analizu podataka i vizualizaciju grafikona sa naprednim funkcijama. Od 24 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+8,35,"Danas smo razgovarali o tome kako prepoznati i izbe?i razli?ite vrste sajber pretnji, uklju?uju?i ransomware i trojance. Od 25 u?enika, 5 se javilo sa pitanjima. Predavanje je trajalo 35 minuta.",7,8
+8,36,"U?ili smo kako da kreiramo i formatiramo slo�ene tekstualne dokumente sa naprednim stilovima, �ablonima i automatskim sadr�ajem. Od 26 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",8,9
+6,21,"Danas smo u?ili kako koristiti Scratch za pravljenje jednostavnih animacija. Od 20 u?enika, 9 se aktivno uklju?ilo u rad. Predavanje je trajalo 20 minuta.",8,9
+6,22,"Tema ?asa bila je kako napraviti jednostavne igre u Scratch-u. Od 22 u?enika, 7 se javilo sa pitanjima. Predavanje je trajalo 25 minuta.",9,10
+6,23,"U?ili smo kako koristiti PowerPoint za pravljenje interaktivnih prezentacija. Od 21 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",8,9
+6,24,"U?ili smo kako koristiti PowerPoint za pravljenje interaktivnih prezentacija. Od 21 u?enika, 6 se javilo sa pitanjima. Predavanje je trajalo 30 minuta.",6,9

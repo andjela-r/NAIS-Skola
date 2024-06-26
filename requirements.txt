@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymilvus
+sentence-transformers
+numpy
+reportlab
